@@ -1,0 +1,15 @@
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\bin\Debug\net9.0\CSharp-Workings.exe
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\bin\Debug\net9.0\CSharp-Workings.deps.json
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\bin\Debug\net9.0\CSharp-Workings.runtimeconfig.json
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\bin\Debug\net9.0\CSharp-Workings.dll
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\bin\Debug\net9.0\CSharp-Workings.pdb
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.AssemblyInfoInputs.cache
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.AssemblyInfo.cs
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.sourcelink.json
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.dll
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\refint\CSharp-Workings.dll
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.pdb
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\CSharp-Workings.genruntimeconfig.cache
+C:\Users\Jamal\Desktop\cs-test\CSharp-Workings\obj\Debug\net9.0\ref\CSharp-Workings.dll
