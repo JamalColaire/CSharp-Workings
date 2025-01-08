@@ -1,3 +1,5 @@
-﻿string name = "Jamal";
+﻿Console.WriteLine("What is your name? ");
 
-Console.WriteLine("Hey! " + name);
+var name = Console.ReadLine();
+
+Console.WriteLine("Hello " + name + "!!!");
