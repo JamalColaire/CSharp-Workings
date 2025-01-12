@@ -1,3 +1,3 @@
 # C# Practice
 
-Practicing **C#** here
+Repository for my **C#** test code
