@@ -2,4 +2,6 @@
 
 var name = Console.ReadLine();
 
-Console.WriteLine("Hello " + name + " !!");
+var date = DateTime.Now;
+
+Console.WriteLine("Hello " + name + ".\n" + "Today is " + date + ".");
